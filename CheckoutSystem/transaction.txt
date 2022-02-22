@@ -1,0 +1,15 @@
+Transactions 
+Apple.............11.0
+Orange.............11.0
+Washer-Fluid.............3.3
+Chips.............5.0
+Coke.............2.0
+Pepsi.............2.0
+Sprite.............2.0
+Lays.............1.0
+Snickers.............1.0
+Coke Zero.............2.0
+
+Subtotal: 40.3
+Tax: 2.54
+Total: 42.84
